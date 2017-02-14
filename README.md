@@ -11,6 +11,6 @@ useage:
 			myParser.parse(line);
 
 			Object value = myParser.getValue();
-  		System.out.println(value);
+  			System.out.println(value);
 		}
 ```
